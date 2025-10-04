@@ -1,0 +1,17 @@
+make_id,run_dir,val_top1,val_top5,train_loss,val_loss,make_names
+22,../data/yolo_sample/runs/classify_top15/model_cls_22_y11n_100e,1.0,1.0,0.0,0.0,TESLA
+100,../data/yolo_sample/runs/classify_top15/model_cls_100_y11n_100e,0.97112,0.99786,0.06452,0.09812,Honda
+97,../data/yolo_sample/runs/classify_top15/model_cls_97_y11n_100e,0.9697,1.0,0.01,0.06268,Nissan
+149,../data/yolo_sample/runs/classify_top15/model_cls_149_y11n_100e,0.94231,1.0,0.01537,0.14278,Suzuki
+159,../data/yolo_sample/runs/classify_top15/model_cls_159_y11n_100e,0.94118,1.0,0.0405,0.18202,Lexus
+122,../data/yolo_sample/runs/classify_top15/model_cls_122_y11n_100e,0.93846,0.98462,0.02338,0.15021,Ford
+101,../data/yolo_sample/runs/classify_top15/model_cls_101_y11n_100e,0.9375,1.0,0.00818,0.13576,Lincoln
+105,../data/yolo_sample/runs/classify_top15/model_cls_105_y11n_100e,0.93617,1.0,0.01305,0.28837,BYD
+15,../data/yolo_sample/runs/classify_top15/model_cls_15_y11n_100e,0.93548,1.0,0.03215,0.12024,MINI
+39,../data/yolo_sample/runs/classify_top15/model_cls_39_y11n_100e,0.93023,0.96512,0.02684,0.34444,Toyota
+118,../data/yolo_sample/runs/classify_top15/model_cls_118_y11n_100e,0.88889,1.0,0.03142,0.39974,Hyundai
+81,../data/yolo_sample/runs/classify_top15/model_cls_81_y11n_100e,0.88288,0.94595,0.0667,0.50758,BMW
+162,../data/yolo_sample/runs/classify_top15/model_cls_162_y11n_100e,0.86957,0.97826,0.0212,0.30466,MAZDA
+78,../data/yolo_sample/runs/classify_top15/model_cls_78_y11n_100e,0.86735,0.97959,0.04208,0.42424,Audi
+140,../data/yolo_sample/runs/classify_top15/model_cls_140_y11n_100e,0.85714,0.98413,0.0378,0.51299,KIA
+77,../data/yolo_sample/runs/classify_top15/model_cls_77_y11n_100e,0.80328,0.94262,0.0525,0.84872,Benz
