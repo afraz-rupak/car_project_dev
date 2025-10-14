@@ -1,0 +1,98 @@
+{
+    "car_make_models": {
+        "TESLA": {
+            "model_path": "runs/Tee_classify_top15/model_cls_22_y11n_100e/weights/best.pt",
+            "accuracy": 1.0,
+            "model_id": 22
+        },
+        "Honda": {
+            "model_path": "runs/Tee_classify_top15/model_cls_100_y11n_100e/weights/best.pt",
+            "accuracy": 0.97112,
+            "model_id": 100
+        },
+        "Nissan": {
+            "model_path": "runs/Tee_classify_top15/model_cls_97_y11n_100e/weights/best.pt",
+            "accuracy": 0.9697,
+            "model_id": 97
+        },
+        "Suzuki": {
+            "model_path": "runs/Tee_classify_top15/model_cls_149_y11n_100e/weights/best.pt",
+            "accuracy": 0.94231,
+            "model_id": 149
+        },
+        "Lexus": {
+            "model_path": "runs/Tee_classify_top15/model_cls_159_y11n_100e/weights/best.pt",
+            "accuracy": 0.94118,
+            "model_id": 159
+        },
+        "Ford": {
+            "model_path": "runs/Tee_classify_top15/model_cls_122_y11n_100e/weights/best.pt",
+            "accuracy": 0.93846,
+            "model_id": 122
+        },
+        "Lincoln": {
+            "model_path": "runs/Tee_classify_top15/model_cls_101_y11n_100e/weights/best.pt",
+            "accuracy": 0.9375,
+            "model_id": 101
+        },
+        "BYD": {
+            "model_path": "runs/Tee_classify_top15/model_cls_105_y11n_100e/weights/best.pt",
+            "accuracy": 0.93617,
+            "model_id": 105
+        },
+        "MINI": {
+            "model_path": "runs/Tee_classify_top15/model_cls_15_y11n_100e/weights/best.pt",
+            "accuracy": 0.93548,
+            "model_id": 15
+        },
+        "Toyota": {
+            "model_path": "runs/Tee_classify_top15/model_cls_39_y11n_100e/weights/best.pt",
+            "accuracy": 0.93023,
+            "model_id": 39
+        },
+        "Hyundai": {
+            "model_path": "runs/Tee_classify_top15/model_cls_118_y11n_100e/weights/best.pt",
+            "accuracy": 0.88889,
+            "model_id": 118
+        },
+        "BMW": {
+            "model_path": "runs/Tee_classify_top15/model_cls_81_y11n_100e/weights/best.pt",
+            "accuracy": 0.88288,
+            "model_id": 81
+        },
+        "MAZDA": {
+            "model_path": "runs/Tee_classify_top15/model_cls_162_y11n_100e/weights/best.pt",
+            "accuracy": 0.86957,
+            "model_id": 162
+        },
+        "Audi": {
+            "model_path": "runs/Tee_classify_top15/model_cls_78_y11n_100e/weights/best.pt",
+            "accuracy": 0.86735,
+            "model_id": 78
+        },
+        "KIA": {
+            "model_path": "runs/Tee_classify_top15/model_cls_140_y11n_100e/weights/best.pt",
+            "accuracy": 0.85714,
+            "model_id": 140
+        },
+        "Benz": {
+            "model_path": "runs/Tee_classify_top15/model_cls_77_y11n_100e/weights/best.pt",
+            "accuracy": 0.80328,
+            "model_id": 77
+        }
+    },
+    "general_models": {
+        "car_make_general": {
+            "model_path": "runs/classify/yolo11n_cls_100e/weights/best.pt",
+            "description": "General car make classifier (front/rear view)"
+        },
+        "body_type": {
+            "model_path": "runs/car_type_classify/yolo11n_cls_100e/weights/best.pt",
+            "description": "Car body type classifier"
+        }
+    },
+    "label_vocabularies": {
+        "car_makes": "yolo_cls_car_makes_front_rear/label_vocabulary.csv",
+        "body_types": "yolo_cls_car_type/label_vocabulary.csv"
+    }
+}

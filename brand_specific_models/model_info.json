@@ -1,0 +1,16 @@
+{
+  "project_root": "/Users/afrazrupak/CarProject_dev/brand_specific_models",
+  "training_config": {
+    "epochs": 50,
+    "imgsz": 224,
+    "batch": 16,
+    "patience": 10,
+    "device": "mps"
+  },
+  "total_brands_processed": 0,
+  "successful_models": 0,
+  "failed_models": 0,
+  "brand_datasets": {},
+  "training_results": {},
+  "evaluation_results": {}
+}
