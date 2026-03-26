@@ -219,7 +219,7 @@ If you use this code or dataset in your research, please cite:
 
 ```bibtex
 @inproceedings{afraz2025vehicle,
-  title     = {[Your Paper Title]},
+  title     = {[Under review]},
   author    = {Afraz Ul Haque and [Co-authors]},
   booktitle = {Proceedings of the 38th International Florida Artificial Intelligence Research Society Conference (FLAIRS-39)},
   year      = {2025},
